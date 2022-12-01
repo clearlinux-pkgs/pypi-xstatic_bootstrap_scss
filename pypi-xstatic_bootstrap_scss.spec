@@ -4,7 +4,7 @@
 #
 Name     : pypi-xstatic_bootstrap_scss
 Version  : 3.4.1.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/ff/05/f4aaaf2a001ef0453ae7bd6c69d194ae7ed3d35e76323381f6a56908b546/XStatic-Bootstrap-SCSS-3.4.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ff/05/f4aaaf2a001ef0453ae7bd6c69d194ae7ed3d35e76323381f6a56908b546/XStatic-Bootstrap-SCSS-3.4.1.0.tar.gz
 Summary  : Bootstrap-SCSS 3.4.1 (XStatic packaging standard)
@@ -58,7 +58,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1669583035
+export SOURCE_DATE_EPOCH=1669863963
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
