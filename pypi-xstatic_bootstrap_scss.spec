@@ -7,7 +7,7 @@
 #
 Name     : pypi-xstatic_bootstrap_scss
 Version  : 3.4.1.0
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/ff/05/f4aaaf2a001ef0453ae7bd6c69d194ae7ed3d35e76323381f6a56908b546/XStatic-Bootstrap-SCSS-3.4.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ff/05/f4aaaf2a001ef0453ae7bd6c69d194ae7ed3d35e76323381f6a56908b546/XStatic-Bootstrap-SCSS-3.4.1.0.tar.gz
 Summary  : Bootstrap-SCSS 3.4.1 (XStatic packaging standard)
